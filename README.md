@@ -40,8 +40,8 @@ The assignment is due by the end of this module.
 ### Submission Directions
 
 1. Commit and push your work to GitHub.
-2. Submit a link to your project index (`https://roderickfields.com/AAU/wnm608/roderick.fields/FinalProject/index.php`).
-3. Submit a link to your GitHub repository. (`https://github.com/roderickfields/FinalProject`).
+2. Submit a link to your project index. 
+3. Submit a link to your GitHub repository. 
 
 ### Example Submission
 
