@@ -1,29 +1,52 @@
-# CSS Styleguide
+## Final Project Preparation
 
-This project aims to create a style guide for a website by setting up color schemes, fonts, and sizing choices. The purpose of this project is to create a cohesive visual experience across the website by defining a consistent set of design elements.
+### Instructions
 
-## Important Links
+Now is the time to make all the last-minute preparations for the Final Project. Let's review the requirements:
 
-- [GitHub Repository](https://github.com/roderickfields/CSS-Styleguide)
-- [Live Styleguide](https://roderickfields.github.io/CSS-Styleguide/)
-- [Project Index Page](https://roderickfields.github.io/aau-wnm608-index.html/)
-- [Course Repository](https://github.com/teylorfeliz/wnm608_202190_ol2)
+#### Pages
 
-# Tools Used
+1. **Landing/Advertisement/Main page**
+2. **Product List page**
+3. **Product Individual Item page**
+4. **Product Added to Cart page**
+5. **Cart Review page**
+6. **Cart Checkout/Purchase page**
+7. **Purchase Confirmation page**
+8. **Product Administration page**
+   - *Note:* This page is for admin use only and should not be designed for regular users to shop.
+9. **Style guide page**
 
-- Sublime Text
-- GitHub
-- Web host
+#### Tasks to Complete
 
-# Instructions
+- Prepare to export your database and submit it in the next module.
+- Test your project on a mobile device.
+- Ask for a second opinion on your design.
 
-Begin working on the site style guide while continuing to work on the proposal document. Create a style guide that sets the colors, fonts, and sizing choices for your site. Update the relevant links in your project README.md.
+### Purpose
 
-# Due Date
+Prepare your Final Project for submission in the next module.
 
-This assignment is due by the end of this module.
+### Tools
 
-# Submission Directions
+- **Text Editor:** Sublime Text (or any preferred editor)
+- **Version Control:** GitHub (for version tracking and collaboration)
+- **Web Hosting:** (for deployment and testing)
 
-Commit and push your work to GitHub.
-Submit a link to your GitHub repository.
+### Due Date
+
+The assignment is due by the end of this module.
+
+### Submission Directions
+
+1. Commit and push your work to GitHub.
+2. Submit a link to your project index (`https://roderickfields.com/AAU/wnm608/roderick.fields/FinalProject/index.php`).
+3. Submit a link to your GitHub repository. (`https://github.com/roderickfields/FinalProject`).
+
+### Example Submission
+
+**Sample 1:**
+
+- **Project Index:** [http://feliciasd.com/aau/ixd608/dharmawan.felicia/index.php](http://feliciasd.com/aau/ixd608/dharmawan.felicia/index.php)
+- **GitHub Repository:** [https://github.com/feliciasd/wnm608_202190_ol2/](https://github.com/feliciasd/wnm608_202190_ol2/)
+
