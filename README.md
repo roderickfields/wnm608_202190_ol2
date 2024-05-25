@@ -1,31 +1,20 @@
-## Final Project Preparation
+## Final Project Submission
+
+### Subject: 13.1 Towards Final Complete Project
 
 ### Instructions
 
-Now is the time to make all the last-minute preparations for the Final Project. Let's review the requirements:
+Here are your instructions for submitting your Final Project:
 
-#### Pages
-
-1. **Landing/Advertisement/Main page**
-2. **Product List page**
-3. **Product Individual Item page**
-4. **Product Added to Cart page**
-5. **Cart Review page**
-6. **Cart Checkout/Purchase page**
-7. **Purchase Confirmation page**
-8. **Product Administration page**
-   - *Note:* This page is for admin use only and should not be designed for regular users to shop.
-9. **Style guide page**
-
-#### Tasks to Complete
-
-- Prepare to export your database and submit it in the next module.
-- Test your project on a mobile device.
-- Ask for a second opinion on your design.
+1. Gather your project together.
+2. Make sure it all works.
+3. Export a `products.sql` into your `data` folder.
+4. Create a `screenshot` folder in your student project folder and add some screenshots.
+5. Commit, push, and create a pull request.
 
 ### Purpose
 
-Prepare your Final Project for submission in the next module.
+Complete your Final Project.
 
 ### Tools
 
@@ -35,18 +24,18 @@ Prepare your Final Project for submission in the next module.
 
 ### Due Date
 
-The assignment is due by the end of this module.
+Your Final Project is due by the end of this module.
 
 ### Submission Directions
 
-1. Commit and push your work to GitHub.
-2. Submit a link to your project index (`https://roderickfields.com/AAU/wnm608/roderick.fields/FinalProject/index.php`).
-3. Submit a link to your GitHub repository. (`https://github.com/roderickfields/FinalProject`).
+1. Commit, push, and create a pull request on GitHub.
+2. Submit a link to your GitHub repository.
+3. Submit a link to your website index.
+4. Add some of your screenshots into the field provided below.
 
-### Example Submission
+### Example Submissions
 
 **Sample 1:**
 
-- **Project Index:** [http://feliciasd.com/aau/ixd608/dharmawan.felicia/index.php](http://feliciasd.com/aau/ixd608/dharmawan.felicia/index.php)
-- **GitHub Repository:** [https://github.com/feliciasd/wnm608_202190_ol2/](https://github.com/feliciasd/wnm608_202190_ol2/)
-
+- **GitHub Repository:** [https://github.com/hle225/wnm608_202190_ol2](https://github.com/hle225/wnm608_202190_ol2)
+- **Project Index:** [http://hle.design/aau/wnm608/ha.le/index.php](http://hle.design/aau/wnm608/ha.le/index.php)
